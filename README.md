@@ -1,3 +1,3 @@
 # Price forecasting with dataworkshop 
 
-Project files will be uploaded here.
+Project files are uploaded here.
